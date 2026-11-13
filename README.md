@@ -11,3 +11,6 @@ CampusFind - Smart Campus Lost & Found Android App
 - Browse, Search & Filter Campus Items
 - Nearby Items & Item Detail View
 - User Profile & Item Status Management
+
+- ## How to Run
+Open this project in Android Studio and run on an Android Emulator or physical device (API 24+).
